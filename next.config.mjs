@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/dite-fit',
-  assetPrefix: '/dite-fit/',
+  basePath: '/ditefit',
+  assetPrefix: '/ditefit/',
   images: {
     unoptimized: true,
   },
